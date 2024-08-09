@@ -1,0 +1,20 @@
+project:
+  type: website
+
+website:
+  title: "SURF2024"
+  navbar:
+    left:
+      - href: surf2024.qmd
+        text: Survival Analysis in Poisoning
+      
+
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+editor: visual
+
